@@ -1,0 +1,35 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.nav-item {
+  list-style: none;
+}
+
+.footer-img {
+  width: 40px;
+  opacity: 0.8;
+  margin-left: 5px;
+  margin-bottom: 2px;
+}
+
+.card {
+  background-color: #EDEDED;
+}
+
+.card-image {
+  opacity: 0.5;
+}
+
+.card-title {
+  font-size: 1.2rem;
+}
+
+.nc-minimal-left, .nc-minimal-right  {
+  font-size: 1.5rem;
+  padding: 0 20px;
+}
+
+.about {
+  padding: 10% 0 15% 0;
+}
